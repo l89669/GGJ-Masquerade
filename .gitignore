@@ -1,0 +1,44 @@
+# Unreal Engine
+
+# Build output
+Binaries/
+Build/
+Intermediate/
+DerivedDataCache/
+
+# Saved files
+Saved/
+
+# Visual Studio
+.vs/
+*.sln
+*.suo
+*.sdf
+*.opensdf
+*.db
+*.opendb
+*.VC.db
+*.VC.opendb
+
+# Rider
+.idea/
+*.sln.iml
+
+# Visual Studio Code
+.vscode/
+
+# Compiled source
+*.o
+*.lo
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+
+# User settings
+*.ini
+!Config/DefaultEngine.ini
+!Config/DefaultGame.ini
+!Config/DefaultInput.ini
+!Config/DefaultEditor.ini
